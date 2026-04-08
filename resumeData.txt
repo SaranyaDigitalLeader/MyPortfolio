@@ -1,0 +1,78 @@
+# PERSONAL INFORMATION
+Name: Saranya Somasundaram, PMP, CSPO, CSM
+Location: Basking Ridge, New Jersey
+Email: saranyasovib@gmail.com
+LinkedIn: https://www.linkedin.com/in/saranyasomasundaram/
+
+# PROFESSIONAL PHILOSOPHY: THE TECHNICAL EDGE
+# THE TECHNICAL EDGE: ENGINEERING-LED EXECUTION
+"I transitioned from a Technical Lead and Full-Stack Developer to a Product/Project Leader. This engineering foundation is my primary tool for project success. I use my technical literacy to vet effort estimations, identify hidden technical risks before they become bottlenecks, and act as a high-fidelity bridge between business stakeholders and engineering teams. My goal is always predictable, high-quality delivery backed by architectural integrity."
+
+# TOP TECHNICAL SKILLS
+- Agile Leadership: PMP, CSPO, CSM, SAFe, PI Planning, Backlog Prioritization
+- Product Strategy: Roadmap Ownership, PRD Writing, Jira Product Discovery, Aha!
+- AI & Innovation: Predictive Validation, Intelligent Autofill, AI-Assisted SDLC
+- Technical Toolkit: API Lifecycle (REST/SOAP), JSON, SQL, Metadata-Driven UI
+- Design & UX: UX Strategy, Mockplus, Figma, User Journey Mapping
+
+# PRODUCT PORTFOLIO: RAZORFLOW (SYNCHRONOSS)
+- Common Ordering Solution (COS): Flagship end-to-end launch of a modernized, API-first platform based on global telecom standards. Managed from market analysis to global execution.
+- Virtual Front Office (VFO): Managed and modernized the legacy enterprise ordering portal, overseeing feature evolution and platform maintenance.
+- ConnectNX & ExpenseNX Integration: Led the critical cross-suite synchronization between Ordering and Billing systems to ensure seamless end-to-end data interoperability.
+- Trouble Ticketing Module: Managed the lifecycle of the enterprise ticketing system, streamlining post-order support and agent workflows.
+
+# CORE IMPACT STORIES (STAR METHOD)
+
+## STORY 1: Metadata-Driven UI Orchestration
+- CATEGORY: Product Innovation
+- SITUATION: Enterprise clients required unique form configurations (visibility/validation), which originally required manual code changes and production deployments for every client variation.
+- TASK: Decouple UI logic from the core codebase to allow for rapid, data-driven customization.
+- ACTION: Directed the development of a metadata-driven configuration layer. Admins can now toggle field visibility, set validation rules, and define defaults via database entries.
+- RESULT: Enabled instant 'Push-to-Live' UI updates without developer intervention, eliminating deployment overhead for customer onboarding.
+
+## STORY 2: Intelligent Order Cloning (SaveAs)
+- CATEGORY: Efficiency & UX
+- SITUATION: Users spent ~8 minutes re-entering redundant data for repeat orders, leading to high error rates and user fatigue.
+- TASK: Identify and lead a feature to reduce manual labor in the ordering lifecycle.
+- ACTION: Shadowed users to document the 6-minute time loss per order. Proposed 'Intelligent SaveAs' which clones static data while clearing technical fields for new entry.
+- RESULT: Reduced order creation time by 60% (8 mins to 2 mins) and reclaimed 30+ hours/week for operations.
+
+## STORY 3: System-Driven Technical Mapping (NC/NCI)
+- CATEGORY: User Pain Point & Accuracy
+- SITUATION: Agents used paper 'cheatsheets' to lookup complex technical network codes (NC/NCI/SECNCI), causing cognitive load and provisioning failures.
+- TASK: Automate a high-knowledge manual task into a system-driven process.
+- ACTION: Developed a backend mapping engine that auto-calculates technical codes based on simple user inputs like bandwidth and port speed.
+- RESULT: Eliminated 'cheatsheet' dependency and achieved 100% technical accuracy in backend provisioning.
+
+## STORY 4: Strategic Stakeholder Negotiation
+- CATEGORY: Conflict Management
+- SITUATION: During a migration, Professional Services demanded 10 new mandatory fields, which would have increased order time by 20%.
+- TASK: Balance data integrity requirements with user experience.
+- ACTION: Analyzed 100 recent orders to prove 6 of those fields were available in the backend. Negotiated a compromise: 6 fields auto-populated, only 4 required manually.
+- RESULT: Secured data quality while keeping the bottleneck to 5% instead of the projected 20%.
+
+# PROFESSIONAL EXPERIENCE
+
+RAZORFLOW (formerly Synchronoss Technologies) | March 2022 – Sept 2025
+Product Manager – Agile Product Ownership
+- Led end-to-end strategy for enterprise SaaS and API-driven Modernized Ordering platforms.
+- Orchestrated product strategy for ConnectNX and ExpenseNX integration.
+- Developed AI-assisted predictive validation, reclaiming 30+ hours of manual effort per week.
+- Managed product backlogs and grooming in a SAFe model to maintain 100% alignment with PI objectives.
+
+SYNCHRONOSS TECHNOLOGIES | Oct 2014 – Feb 2022
+Product Owner & Lead Engineer
+- Led roadmap management for enterprise ordering systems supporting millions of annual transactions.
+- Improved provisioning speed by 25% for Tier-1 telco clients (AT&T, Verizon).
+- Bridged the gap between business and engineering as a technical translator.
+
+WIPRO TECHNOLOGIES | Oct 2006 – April 2014
+Technical Lead & Full Stack Developer
+- Led SDLC for digital banking and insurance platforms ensuring high-quality delivery.
+- Developed scalable applications using Java/J2EE and Spring Boot.
+
+# EDUCATION & CERTIFICATIONS
+- M.S. Software Engineering | BITS Pilani, India
+- B.S. Computer Technology | Anna University, India
+- Project Management Professional (PMP)
+- Certified Scrum Product Owner (CSPO) & ScrumMaster (CSM)
